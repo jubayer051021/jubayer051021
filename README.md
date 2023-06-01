@@ -22,7 +22,7 @@
 </ul>
 
 <h3 align="left">💻Work Experience</h3>
-- Trainee Software Engineer, BJIT Academy, April 2023 - Present
+ Trainee Software Engineer, BJIT Academy, April 2023 - Present
 
   - Full-stack Web Developer (Java2 EE)
 <hr>

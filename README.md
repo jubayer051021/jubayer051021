@@ -28,6 +28,7 @@
 <hr>
   
 <h3 align="left">🎓Education</h3>
+
 - American International University Bangladesh, B.Sc. in Computer Science and Engineering, July 2022 
 <hr>
 
